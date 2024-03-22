@@ -1,0 +1,63 @@
+E:\info\ATESTATver0\ATESTATver0\bin\Debug\dt.sdf
+E:\info\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.exe.config
+E:\info\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.exe
+E:\info\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.pdb
+E:\info\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.Form1.resources
+E:\info\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.Properties.Resources.resources
+E:\info\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csproj.GenerateResource.Cache
+E:\info\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.exe
+E:\info\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.pdb
+E:\info\ATESTATver0\ATESTATver0\bin\Debug\Interop.WMPLib.dll
+E:\info\ATESTATver0\ATESTATver0\bin\Debug\AxInterop.WMPLib.dll
+E:\info\ATESTATver0\ATESTATver0\obj\x86\Debug\Interop.WMPLib.dll
+E:\info\ATESTATver0\ATESTATver0\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\info\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csproj.ResolveComReference.cache
+D:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.exe.config
+D:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\Interop.WMPLib.dll
+D:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csproj.ResolveComReference.cache
+D:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.exe
+D:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.pdb
+D:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.exe
+D:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.pdb
+D:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\Interop.WMPLib.dll
+D:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\AxInterop.WMPLib.dll
+D:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csprojResolveAssemblyReference.cache
+D:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.Form1.resources
+D:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.Properties.Resources.resources
+D:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csproj.GenerateResource.Cache
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.exe.config
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\obj\x86\Debug\Interop.WMPLib.dll
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csproj.ResolveComReference.cache
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.exe
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.pdb
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\bin\Debug\dt.sdf
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.exe
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.pdb
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\bin\Debug\Interop.WMPLib.dll
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\bin\Debug\AxInterop.WMPLib.dll
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csprojResolveAssemblyReference.cache
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.Form1.resources
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.Properties.Resources.resources
+D:\info 12A\1MORSE_CODE\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csproj.GenerateResource.Cache
+F:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.exe.config
+F:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\Interop.WMPLib.dll
+F:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csproj.ResolveComReference.cache
+F:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.exe
+F:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.pdb
+F:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.exe
+F:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.pdb
+F:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\Interop.WMPLib.dll
+F:\info 12A\ATESTATver0\ATESTATver0\bin\Debug\AxInterop.WMPLib.dll
+F:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csprojResolveAssemblyReference.cache
+F:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.Form1.resources
+F:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.Properties.Resources.resources
+F:\info 12A\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csproj.GenerateResource.Cache
+C:\Users\ACASA\Desktop\ATESTATver0\ATESTATver0\bin\Debug\ATESTATver0.exe.config
+C:\Users\ACASA\Desktop\ATESTATver0\ATESTATver0\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ACASA\Desktop\ATESTATver0\ATESTATver0\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ACASA\Desktop\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.csproj.ResolveComReference.cache
+C:\Users\ACASA\Desktop\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.exe
+C:\Users\ACASA\Desktop\ATESTATver0\ATESTATver0\obj\x86\Debug\ATESTATver0.pdb
